@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC3b184dcb796F55BDb7999d2D9dd032d7fdFf6e8",
+  "SCAN_LINK": "https://etherscan.io/0xC3b184dcb796F55BDb7999d2D9dd032d7fdFf6e8",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "De Factory",
+  "SYMBOL": "DF",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 111000000000000000,
+  "DISPLAY_COST": 0.11100000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/de-factory",
+  "SHOW_BACKGROUND": true
+}
